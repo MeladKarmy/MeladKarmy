@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeladKarmy?tab=repositories](https://github.com/MeladKarmy?tab=repositories)
 
-- 📫 How to reach me **meladkarmy6@gmail.com**
+- 📫 How to reach me **meladkarmy12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
