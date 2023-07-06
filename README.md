@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melad Karmy</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **MERN stack project**
+- 🔭 I’m currently working on **MEARN stack project**
 
-- 🌱 I’m currently learning **React**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeladKarmy?tab=repositories](https://github.com/MeladKarmy?tab=repositories)
 
